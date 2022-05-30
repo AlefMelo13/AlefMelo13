@@ -11,7 +11,6 @@
 - Criação de evidências para reports do projeto - QA
 - Organização e Priorização de Testes (TO DO) - QA
 
-- Programação Python
 - Versionamento com: GitHub Desktop 
 
 Estou estudando e aprimorando meus conhecimentos com as linguagens: :computer:
