@@ -14,7 +14,7 @@
 Estou estudando e aprimorando meus conhecimentos com ferramentas e linguagens: :computer:
 
 <img aling= center alt= "SQL" height= "40" width= "60" src= "https://infoworker.com.br/wp-content/uploads/2018/03/sqlserver.png">  </img>
-<img aling= center alt= "VSCode" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">  </img>
+<img aling= center alt= "Visual Studio" height= "50" width= "50" src= "https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg">  </img>
 <img aling= center alt= "Cypress" height= "50" width= "50" src= "https://pbs.twimg.com/profile_images/1512090708181725184/KAPAXmDg_400x400.jpg">  </img>
 <img aling= center alt= "JS" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  </img>
 <img aling= center alt= "C#" height= "50" width= "50" src= "https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg">  </img>
