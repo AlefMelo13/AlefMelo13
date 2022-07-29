@@ -18,7 +18,7 @@ Estou estudando e aprimorando meus conhecimentos com ferramentas e linguagens: :
 <img aling= center alt= "Cypress" height= "50" width= "50" src= "https://pbs.twimg.com/profile_images/1512090708181725184/KAPAXmDg_400x400.jpg">  </img>
 <img aling= center alt= "JS" height= "40" width= "60" src= "https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo.jpg">  </img>
 <img aling= center alt= "C#" height= "50" width= "50" src= "https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg">  </img>
-<img aling= center alt= "Trello" height= "50" width= "50" src= "https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png">  </img>
+<img aling= center alt= "Trello" height= "40" width= "60" src= "https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo.png">  </img>
 
 
 :mailbox_with_no_mail: :telephone_receiver:   Contatos: 
