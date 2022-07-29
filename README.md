@@ -15,7 +15,7 @@ Estou estudando e aprimorando meus conhecimentos com ferramentas e linguagens: :
 
 <img aling= center alt= "SQL" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">  </img>
 <img aling= center alt= "VSCode" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">  </img>
-<img aling= center alt= "Cypress" height= "50" width= "100" src= "https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/59c46/cypress-logo.webp">  </img>
+<img aling= center alt= "Cypress" height= "50" width= "100" src= "https://pbs.twimg.com/profile_images/1512090708181725184/KAPAXmDg_400x400.jpg">  </img>
 <img aling= center alt= "JS" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  </img>
 <img aling= center alt= "C#" height= "50" width= "50" src= "https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg">  </img>
 
