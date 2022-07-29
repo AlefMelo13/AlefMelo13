@@ -21,7 +21,7 @@ Estou estudando e aprimorando meus conhecimentos com ferramentas e linguagens: :
 
 
 :mailbox_with_no_mail: :telephone_receiver:   Contatos: 
-alefmelo13@gmail.com / alefmelo13@hotmail.com / alef@faucom.com.br
+alefmelo13@gmail.com / alefmelo13@hotmail.com
 
 
 
