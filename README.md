@@ -27,7 +27,7 @@ alefmelo13@gmail.com / alefmelo13@hotmail.com
 
 
 
-<a href = "https://www.linkedin.com/in/álef-melo-1a5321131/" target = "_blank">
+<a href = "https://www.linkedin.com/in/%C3%A1lef-melo/" target = "_blank">
 <img aling= center alt= "Álef Melo" height= "50" width= "50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 
